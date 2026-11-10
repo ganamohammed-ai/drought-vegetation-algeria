@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Code for: Réponse de la végétation naturelle aux sécheresses récurrentes et prolongées dans le nord de l'Algérie (2000–2025)"
+version: v1.0.0
+license: MIT
+authors:
+  - family-names: "Gana"
+    given-names: "Mohamed"
+    orcid: "https://orcid.org/0000-0003-0775-6954"
+    affiliation: "Université des Frères Mentouri – Constantine 1, Algeria"
