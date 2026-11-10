@@ -16,4 +16,4 @@ Code for the manuscript "Réponse de la végétation naturelle aux sécheresses 
 - Input data are third-party products and are not redistributed here (TerraClimate, CHIRPS v3.0, ERA5-Land, MOD13Q1, MYD13Q1, MYD11A2 v061, MCD64A1, GLC_FCS30D, ESRI LULC 10 m, Dynamic World, ESA CCI SM COMBINED v09.2, SMAP SPL3SMP_E v006, SoilGrids).
 - Paths inside scripts point to the author's folders and must be edited before use.
 
-Licence: MIT. Archived release: [Zenodo DOI to be added].
+Licence: MIT. Archived release: code https://doi.org/10.5281/zenodo.24110454 (v1.0.0); data https://doi.org/10.5281/zenodo.24110516.
